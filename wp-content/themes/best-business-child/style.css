@@ -1,0 +1,29 @@
+/*
+ Theme Name:   Best Business Child
+ Theme URI:    http://localhost:8888/ambitionresumes.com/wp-content/best-buiness-child/
+ Description:  Best Business Child Theme
+ Author:       Irina Delgado
+ Author URI:   http://irimaya.com
+ Template:     best-business
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  best-business-child
+*/
+
+#main-nav {
+    background: #3E3E3E;
+}
+
+#breadcrumb li a {
+	color: #afcc26;
+}
+
+.sidebar .widget-title {
+	color: #CD2060;
+}
+
+.sidebar .widget-title::after {
+	background: #AFCC26;
+}
